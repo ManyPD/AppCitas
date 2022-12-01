@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppCitas.Service.props" />
+</Project>
