@@ -1,7 +1,6 @@
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\appsettings.Development.json
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\appsettings.json
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Data\UserSeedData.json
-C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\AppCitas.Service.staticwebassets.runtime.json
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\AppCitas.Service.exe
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\AppCitas.Service.deps.json
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\AppCitas.Service.runtimeconfig.json
@@ -12,6 +11,9 @@ C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\AutoMapper.Ext
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\CloudinaryDotNet.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Humanizer.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Data.Sqlite.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -19,7 +21,10 @@ C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Enti
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -34,6 +39,7 @@ C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\SQLitePCLRaw.p
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\edmae\Documents\SW\AppCitas.Service\bin\MCD\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
@@ -57,11 +63,7 @@ C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Servi
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.csproj.CoreCompileInputs.cache
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.RazorAssemblyInfo.cache
-C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.RazorAssemblyInfo.cs
-C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\scopedcss\bundle\AppCitas.Service.styles.css
-C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\scopedcss\projectbundle\AppCitas.Service.bundle.scp.css
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.csproj.CopyComplete
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\AppCitas.Service.dll
 C:\Users\edmae\Documents\SW\AppCitas.Service\obj\MCD\Debug\net6.0\refint\AppCitas.Service.dll

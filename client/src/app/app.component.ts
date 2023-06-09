@@ -1,4 +1,3 @@
-import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { User } from './_models/user';
 import { AccountService } from './_services/account.service';
@@ -12,19 +11,10 @@ export class AppComponent implements OnInit {
   title = 'Mi Primer Cita';
   users: any;
 
-  constructor(private http: HttpClient, private accountService: AccountService) {}
+  constructor(private accountService: AccountService) {}
 
   ngOnInit(): void {
-    this.getUsers();
     this.setCurrentUser();
-  }
-
-  getUsers() {
-    this.http.get('https://localhost:5001/api/users').subscribe({
-      next: (response: any) => this.users = response,
-      error: (err: Error) => console.log(err),
-      complete: () => console.log('Request has completed')
-    });
   }
 
   setCurrentUser() {
